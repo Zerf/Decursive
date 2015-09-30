@@ -1,4 +1,7 @@
-Decursive 1.9.8.3 by Archarodim
+Decursive 1.9.8.3.1 originally by Archarodim, modified by Zerf
+
+Changes from Decursive 1.9.8.3 to 1.9.8.3.1
+- dispelling with a pet (devour magic) won't stop active spellcast anymore
 
 Changes from Decursive 1.9.8.2 to 1.9.8.3
 

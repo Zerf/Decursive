@@ -2133,8 +2133,8 @@ function Dcr_Clean(UseThisTarget, SwitchToTarget) --{{{
 
     -- will cancel anyspell upon Decursive call, may be dangerous...
     SpellStopTargeting();
-    -- always cancel current spell
-    SpellStopCasting();
+    -- always cancel current spell unless it's pet
+    if ( DCR_SPELL_COOLDOWN_CHECK[2] ~= "pet") then SpellStopCasting(); end
 
     local _, cooldown = GetSpellCooldown(DCR_SPELL_COOLDOWN_CHECK[1], DCR_SPELL_COOLDOWN_CHECK[2]);
     if (cooldown ~= 0) then

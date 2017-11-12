@@ -2,6 +2,7 @@
 ## Title: Decursive 1.9.8.3.1
 ## DefaultState: enabled
 ## Notes: This is a raid cleaning mod. The idea behind this is to iterate though the raid party, and cure who ever needs it. It also work on teams, but was written with raids in mind. Pets were added since some debuffs are PBAoE.
+## Notes-esES: Módulo para curar efectos en tu grupo y banda.
 ## SavedVariablesPerCharacter: Dcr_Saved, DCR_REMOTE_DEBUG
 ## Version 1.9.8.3
 ## Author:Archarodim (Originally coded by Quu)
@@ -10,6 +11,7 @@
 localization.lua
 localization.fr.lua
 localization.de.lua
+localization.es.lua
 localization.tw.lua
 Decursive.lua
 Decursive.xml

@@ -155,7 +155,7 @@ DCR_POPULATE_LIST  = "Poblar rápida la lista de Decursive";
 DCR_RREMOVE_ID     = "Quitar el jugador";
 DCR_HIDE_MAIN      = "Ocultar la Ventana de Decursive";
 DCR_SHOW_MSG	   = "Para mostrar el marco de Decursive, escribir /dcrshow";
-DCR_IS_HERE_MSG	   = "Decursive está iniciado, recuerda que comprueba las opciones";
+DCR_IS_HERE_MSG	   = "Decursive está iniciado, recuerda que comprobar las opciones";
 
 DCR_PRINT_CHATFRAME = "Publicar mensajes en el chat por defecto";
 DCR_PRINT_CUSTOM    = "Publicar mensajes en la ventana";
